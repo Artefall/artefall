@@ -39,7 +39,7 @@ My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engin
 <a href="t.me/secretsupper"><img alt="blog" src="https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge" />&nbsp;</a>
 <a href="https://www.patreon.com/artem_maksymov"><img alt="patreon" src="https://img.shields.io/badge/patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge" />&nbsp;</a>
 <a href="https://boosty.to/artefall"><img alt="boosty" src="https://img.shields.io/badge/boosty-FF424D?logo=patreon&logoColor=white&style=for-the-badge" />&nbsp;</a>
-<a href="https://twitter.com/MaksymovArtem"><img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?logo=patreon&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="https://twitter.com/MaksymovArtem"><img alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />&nbsp;</a>
 
 
 
