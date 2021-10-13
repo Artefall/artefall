@@ -45,4 +45,4 @@ My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engin
 
 You can find more interesting stuff about me, my projects, my skills on my personal web-site
 
-<a href="https://artefall.github.io"><img alt="site" src="https://img.shields.io/badge/site-222222?logo=github-pages&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="https://artefall.github.io"><img alt="site" src="https://img.shields.io/badge/site-339933?logo=github-pages&logoColor=white&style=for-the-badge" />&nbsp;</a>
