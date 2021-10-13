@@ -33,7 +33,7 @@ My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engin
 
 ## Me in social networks
 
-<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />&nbsp;
+<a href="https://www.linkedin.com/in/artyom-maximov/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />&nbsp;</a>
 <img alt="telegram" src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />&nbsp;
 <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />&nbsp;
 <img alt="blog" src="https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge" />&nbsp;
