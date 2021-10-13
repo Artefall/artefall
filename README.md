@@ -34,10 +34,12 @@ My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engin
 ## Me in social networks
 
 <a href="https://www.linkedin.com/in/artyom-maximov/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />&nbsp;</a>
-<img alt="telegram" src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />&nbsp;
-<img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />&nbsp;
-<img alt="blog" src="https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge" />&nbsp;
+<a href="https://t.me/Artefall"><img alt="telegram" src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="https://www.linkedin.com/in/artyom-maximov/"><img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="t.me/secretsupper"><img alt="blog" src="https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="https://www.patreon.com/artem_maksymov"><img alt="patreon" src="https://img.shields.io/badge/patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge" />&nbsp;</a>
+<a href="https://boosty.to/artefall"><img alt="boosty" src="https://img.shields.io/badge/boosty-FF424D?logo=patreon&logoColor=white&style=for-the-badge" />&nbsp;</a>
 
 You can find more interesting stuff about me, my projects, my skills on my personal web-site
 
-<img alt="site" src="https://img.shields.io/badge/site-222222?logo=github-pages&logoColor=white&style=for-the-badge" />&nbsp;
+<a href="https://artefall.github.io"><img alt="site" src="https://img.shields.io/badge/site-222222?logo=github-pages&logoColor=white&style=for-the-badge" />&nbsp;</a>
