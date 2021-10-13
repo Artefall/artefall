@@ -4,7 +4,7 @@ Glad you visited my humble github account, you are welcome here!
 
 My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engineer.
 
-## My tech stack
+## My tech stack 🛠
 
 ### Programming languages, frameworks and databases
 
