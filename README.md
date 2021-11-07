@@ -33,7 +33,7 @@ My name is Maksymov Artem, I'm from Odessa and now I'm working as a DevOps Engin
 ## Me in social networks
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge) ](https://www.linkedin.com/in/artyom-maximov/) [![telegram](https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge) ](https://t.me/Artefall)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge) ](https://www.linkedin.com/in/artyom-maximov/) [![blog](https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge) ](t.me/secretsupper)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge) ](https://www.linkedin.com/in/artyom-maximov/) [![blog](https://img.shields.io/badge/blog-000000?logo=telegraph&logoColor=white&style=for-the-badge) ](https://t.me/secretsupper)
 [![patreon](https://img.shields.io/badge/patreon-FF424D?logo=patreon&logoColor=white&style=for-the-badge) ](https://www.patreon.com/artem_maksymov)
 [![boosty](https://img.shields.io/badge/boosty-FF424D?logo=patreon&logoColor=white&style=for-the-badge) ](https://boosty.to/artefall)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge) ](https://twitter.com/MaksymovArtem)
